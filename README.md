@@ -1,4 +1,4 @@
-- 👋 Hi, I’m palloma .g
+- 👋 Hi, I’m palloma g.
 - 👀 I’m interested in work as a developer
 - 🌱 I’m currently learning algorithms and programming logic
 - 💞️ I’m looking to collaborate on develop projects
