@@ -1,8 +1,4 @@
-- 👋 Hi, I’m palloma g.
-- 👀 I’m interested in work as a developer
-- 🌱 I’m currently learning algorithms and programming logic
-- 💞️ I’m looking to collaborate on develop projects
-- 📫 how to reach me on linkedin vercel as: palloma gitahy
+## hi! I´m Palloma and I´m programmer 
 
 <div align="center">
   <a href="https://github.com/pallomaog">
@@ -28,6 +24,8 @@
  <a href="https://discord.gg/XYH8GZdT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pallomagitahy11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pallomagitahy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   
 
